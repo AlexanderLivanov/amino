@@ -1,0 +1,26 @@
+struct aaTable {
+    string alanine = "a";
+    string arginine = "r";
+    string asparagine = "n";
+    string aspartate = "d";
+    string cysteine = "c";
+    string glutamine = "q";
+    string glutamate = "e";
+    string glycine = "g";
+    string histidine = "h";
+    string isoleucine = "i";
+    string leucine = "l";
+    string lysine = "k";
+    string methionine = "m";
+    string phenylalanine = "f";
+    string proline = "p";
+    string serine = "s";
+    string threonine = "t";
+    string tryptophan = "w";
+    string tyrosine = "y";
+    string valine = "v";
+
+    string stopCodone1 = "u";
+    string stopCodone2 = "o";
+    string stopCodone3 = "";
+};
